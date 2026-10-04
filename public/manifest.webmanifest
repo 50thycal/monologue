@@ -1,0 +1,14 @@
+{
+  "name": "Monologue",
+  "short_name": "Monologue",
+  "description": "A soundboard and stage for telling a great story.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120a1f",
+  "theme_color": "#120a1f",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

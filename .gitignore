@@ -1,0 +1,6 @@
+node_modules
+dist
+public/sfx
+public/photos/manifest.json
+.vercel
+.DS_Store
