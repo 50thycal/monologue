@@ -4,7 +4,7 @@
     "mi": "https://www.myinstants.com/media/sounds/",
     "rm": "https://remotion.media/",
     "gg": "https://actions.google.com/sounds/v1/",
-    "rs": "https://raw.githubusercontent.com/e3ntity/react-sounds/main/sounds/"
+    "rs": "https://raw.githubusercontent.com/e3ntity/react-sounds/master/sounds/"
   },
   "categories": ["Reactions", "Drama", "Memes", "Party", "Music"],
   "sounds": [
@@ -47,7 +47,7 @@
     { "id": "spongefail", "label": "SpongeBob Fail", "emoji": "🧽", "cat": "Memes", "src": "rm:spongebob-fail.wav", "max": 5 },
 
     { "id": "airhorn", "label": "Air Horn", "emoji": "📯", "cat": "Party", "src": "mi:mlg-airhorn.mp3", "max": 4 },
-    { "id": "cork", "label": "Champagne Pop", "emoji": "🍾", "cat": "Party", "src": "gg:foley/bottle_cork.ogg", "max": 3 },
+    { "id": "cork", "label": "Champagne Pop", "emoji": "🍾", "cat": "Party", "src": "gg:cartoon/pop.ogg", "max": 3 },
     { "id": "clink", "label": "Cheers!", "emoji": "🥂", "cat": "Party", "src": "gg:household/wine_bottles_clinking.ogg", "max": 3 },
     { "id": "whistle", "label": "Wolf Whistle", "emoji": "😏", "cat": "Party", "src": "mi:wolf-whistle.mp3", "max": 3 },
     { "id": "kaching", "label": "Cha-Ching", "emoji": "💸", "cat": "Party", "src": "mi:cash-register-sound-fx.mp3", "max": 3 },
